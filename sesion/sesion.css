@@ -1,0 +1,26 @@
+.sesion {
+    background-color: none;
+    max-width: 500px;
+    max-height: 500px;
+    border-radius: 100px;
+    text-align: center;
+    margin-left: 390px;
+    margin-top: 200px;
+    display: flex;
+    border: black solid 1px;
+}
+
+body {
+    background-image: url(imagenes/fondo1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px;
+}
+
+.formulario {
+    margin-left: 170px;
+}
+
+.reglink {
+    margin-left: 530px;
+    margin-top: 50px;
+}

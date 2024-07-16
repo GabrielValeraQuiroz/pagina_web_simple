@@ -1,0 +1,23 @@
+.arriba {
+    background-color: burlywood;
+    margin: -9px;
+}
+.ulnav {
+    list-style: none;
+    text-align: center;
+ }
+ 
+ .elnav {
+     display: inline;
+     padding: 30px;
+ }
+ 
+ .sesion {
+     text-decoration: none;
+     color: black;
+     margin-left: 800px;
+ }
+ body {
+    background-color: tomato;
+}
+
